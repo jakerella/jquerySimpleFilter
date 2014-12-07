@@ -63,7 +63,7 @@ $('#state').simpleFilter({
 });
 ```
 
-There are [more examples](http://jordankasper.com/jquery/filter) on my personal site.
+There are [more examples](http://jordankasper.com/jquery/filter/examples) on my personal site.
 
 **Tested Browsers**
 
